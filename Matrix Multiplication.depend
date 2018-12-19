@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1541295119 source:/home/mostafayousry/Matrix Multiplication/main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<semaphore.h>
+	<time.h>
+
+1542726909 source:/home/mostafayousry/MatrixMultiplication/main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<semaphore.h>
+	<time.h>
+
